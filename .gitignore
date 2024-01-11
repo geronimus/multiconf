@@ -1,0 +1,7 @@
+# OS Cruft
+.DS_Store
+*~
+
+# sbt
+target/
+
